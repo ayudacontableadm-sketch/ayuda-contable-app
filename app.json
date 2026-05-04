@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "ayuda-contable-app",
+    "slug": "ayuda-contable-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "edgeToEdgeEnabled": true
+    },
+    "web": {}
+  }
+}
